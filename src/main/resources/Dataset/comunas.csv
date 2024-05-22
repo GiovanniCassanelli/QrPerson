@@ -1,0 +1,347 @@
+﻿Código Región;Nombre Región;Código Provincia;Nombre Provincia;Código Comuna 2010;Nombre Comuna
+01;Tarapacá;011;Iquique;01101;Iquique
+01;Tarapacá;011;Iquique;01107;Alto Hospicio
+01;Tarapacá;014;Tamarugal;01401;Pozo Almonte
+01;Tarapacá;014;Tamarugal;01402;Camiña
+01;Tarapacá;014;Tamarugal;01403;Colchane
+01;Tarapacá;014;Tamarugal;01404;Huara
+01;Tarapacá;014;Tamarugal;01405;Pica
+02;Antofagasta;021;Antofagasta;02101;Antofagasta
+02;Antofagasta;021;Antofagasta;02102;Mejillones
+02;Antofagasta;021;Antofagasta;02103;Sierra Gorda
+02;Antofagasta;021;Antofagasta;02104;Taltal
+02;Antofagasta;022;El Loa;02201;Calama
+02;Antofagasta;022;El Loa;02202;Ollague
+02;Antofagasta;022;El Loa;02203;San Pedro De Atacama
+02;Antofagasta;023;Tocopilla;02301;Tocopilla
+02;Antofagasta;023;Tocopilla;02302;María Elena
+03;Atacama;031;Copiapó;03101;Copiapó
+03;Atacama;031;Copiapó;03102;Caldera
+03;Atacama;031;Copiapó;03103;Tierra Amarilla
+03;Atacama;032;Chañaral;03201;Chañaral
+03;Atacama;032;Chañaral;03202;Diego De Almagro
+03;Atacama;033;Huasco;03301;Vallenar
+03;Atacama;033;Huasco;03302;Alto Del Carmen
+03;Atacama;033;Huasco;03303;Freirina
+03;Atacama;033;Huasco;03304;Huasco
+04;Coquimbo;041;Elqui;04101;La Serena
+04;Coquimbo;041;Elqui;04102;Coquimbo
+04;Coquimbo;041;Elqui;04103;Andacollo
+04;Coquimbo;041;Elqui;04104;La Higuera
+04;Coquimbo;041;Elqui;04105;Paiguano
+04;Coquimbo;041;Elqui;04106;Vicuña
+04;Coquimbo;042;Choapa;04201;Illapel
+04;Coquimbo;042;Choapa;04202;Canela
+04;Coquimbo;042;Choapa;04203;Los Vilos
+04;Coquimbo;042;Choapa;04204;Salamanca
+04;Coquimbo;043;Limarí;04301;Ovalle
+04;Coquimbo;043;Limarí;04302;Combarbalá
+04;Coquimbo;043;Limarí;04303;Monte Patria
+04;Coquimbo;043;Limarí;04304;Punitaqui
+04;Coquimbo;043;Limarí;04305;Río Hurtado
+05;Valparaíso;051;Valparaíso;05101;Valparaíso
+05;Valparaíso;051;Valparaíso;05102;Casablanca
+05;Valparaíso;051;Valparaíso;05103;Concón
+05;Valparaíso;051;Valparaíso;05104;Juan Fernández
+05;Valparaíso;051;Valparaíso;05105;Puchuncaví
+05;Valparaíso;051;Valparaíso;05107;Quintero
+05;Valparaíso;051;Valparaíso;05109;Viña Del Mar
+05;Valparaíso;052;Isla De Pascua;05201;Isla De Pascua
+05;Valparaíso;053;Los Andes;05301;Los Andes
+05;Valparaíso;053;Los Andes;05302;Calle Larga
+05;Valparaíso;053;Los Andes;05303;Rinconada
+05;Valparaíso;053;Los Andes;05304;San Esteban
+05;Valparaíso;054;Petorca;05401;La Ligua
+05;Valparaíso;054;Petorca;05402;Cabildo
+05;Valparaíso;054;Petorca;05403;Papudo
+05;Valparaíso;054;Petorca;05404;Petorca
+05;Valparaíso;054;Petorca;05405;Zapallar
+05;Valparaíso;055;Quillota;05501;Quillota
+05;Valparaíso;055;Quillota;05502;Calera
+05;Valparaíso;055;Quillota;05503;Hijuelas
+05;Valparaíso;055;Quillota;05504;La Cruz
+05;Valparaíso;055;Quillota;05506;Nogales
+05;Valparaíso;056;San Antonio;05601;San Antonio
+05;Valparaíso;056;San Antonio;05602;Algarrobo
+05;Valparaíso;056;San Antonio;05603;Cartagena
+05;Valparaíso;056;San Antonio;05604;El Quisco
+05;Valparaíso;056;San Antonio;05605;El Tabo
+05;Valparaíso;056;San Antonio;05606;Santo Domingo
+05;Valparaíso;057;San Felipe;05701;San Felipe
+05;Valparaíso;057;San Felipe;05702;Catemu
+05;Valparaíso;057;San Felipe;05703;Llaillay
+05;Valparaíso;057;San Felipe;05704;Panquehue
+05;Valparaíso;057;San Felipe;05705;Putaendo
+05;Valparaíso;057;San Felipe;05706;Santa María
+05;Valparaíso;058;Marga Marga;05801;Quilpué
+05;Valparaíso;058;Marga Marga;05802;Limache
+05;Valparaíso;058;Marga Marga;05803;Olmué
+05;Valparaíso;058;Marga Marga;05804;Villa Alemana
+06;Libertador General Bernardo O'Higgins;061;Cachapoal;06101;Rancagua
+06;Libertador General Bernardo O'Higgins;061;Cachapoal;06102;Codegua
+06;Libertador General Bernardo O'Higgins;061;Cachapoal;06103;Coinco
+06;Libertador General Bernardo O'Higgins;061;Cachapoal;06104;Coltauco
+06;Libertador General Bernardo O'Higgins;061;Cachapoal;06105;Doñihue
+06;Libertador General Bernardo O'Higgins;061;Cachapoal;06106;Graneros
+06;Libertador General Bernardo O'Higgins;061;Cachapoal;06107;Las Cabras
+06;Libertador General Bernardo O'Higgins;061;Cachapoal;06108;Machali
+06;Libertador General Bernardo O'Higgins;061;Cachapoal;06109;Malloa
+06;Libertador General Bernardo O'Higgins;061;Cachapoal;06110;Mostazal
+06;Libertador General Bernardo O'Higgins;061;Cachapoal;06111;El Olivar
+06;Libertador General Bernardo O'Higgins;061;Cachapoal;06112;Peumo
+06;Libertador General Bernardo O'Higgins;061;Cachapoal;06113;Pichidegua
+06;Libertador General Bernardo O'Higgins;061;Cachapoal;06114;Quinta De Tilcoco
+06;Libertador General Bernardo O'Higgins;061;Cachapoal;06115;Rengo
+06;Libertador General Bernardo O'Higgins;061;Cachapoal;06116;Requinoa
+06;Libertador General Bernardo O'Higgins;061;Cachapoal;06117;San Vicente
+06;Libertador General Bernardo O'Higgins;062;Cardenal Caro;06201;Pichilemu
+06;Libertador General Bernardo O'Higgins;062;Cardenal Caro;06202;La Estrella
+06;Libertador General Bernardo O'Higgins;062;Cardenal Caro;06203;Litueche
+06;Libertador General Bernardo O'Higgins;062;Cardenal Caro;06204;Marchihue
+06;Libertador General Bernardo O'Higgins;062;Cardenal Caro;06205;Navidad
+06;Libertador General Bernardo O'Higgins;062;Cardenal Caro;06206;Paredones
+06;Libertador General Bernardo O'Higgins;063;Colchagua;06301;San Fernando
+06;Libertador General Bernardo O'Higgins;063;Colchagua;06302;Chépica
+06;Libertador General Bernardo O'Higgins;063;Colchagua;06303;Chimbarongo
+06;Libertador General Bernardo O'Higgins;063;Colchagua;06304;Lolol
+06;Libertador General Bernardo O'Higgins;063;Colchagua;06305;Nancagua
+06;Libertador General Bernardo O'Higgins;063;Colchagua;06306;Palmilla
+06;Libertador General Bernardo O'Higgins;063;Colchagua;06307;Peralillo
+06;Libertador General Bernardo O'Higgins;063;Colchagua;06308;Placilla
+06;Libertador General Bernardo O'Higgins;063;Colchagua;06309;Pumanque
+06;Libertador General Bernardo O'Higgins;063;Colchagua;06310;Santa Cruz
+07;Maule;071;Talca;07101;Talca
+07;Maule;071;Talca;07102;Constitución
+07;Maule;071;Talca;07103;Curepto
+07;Maule;071;Talca;07104;Empedrado
+07;Maule;071;Talca;07105;Maule
+07;Maule;071;Talca;07106;Pelarco
+07;Maule;071;Talca;07107;Pencahue
+07;Maule;071;Talca;07108;Río Claro
+07;Maule;071;Talca;07109;San Clemente
+07;Maule;071;Talca;07110;San Rafael
+07;Maule;072;Cauquenes;07201;Cauquenes
+07;Maule;072;Cauquenes;07202;Chanco
+07;Maule;072;Cauquenes;07203;Pelluhue
+07;Maule;073;Curicó;07301;Curicó
+07;Maule;073;Curicó;07302;Hualañe
+07;Maule;073;Curicó;07303;Licantén
+07;Maule;073;Curicó;07304;Molina
+07;Maule;073;Curicó;07305;Rauco
+07;Maule;073;Curicó;07306;Romeral
+07;Maule;073;Curicó;07307;Sagrada Familia
+07;Maule;073;Curicó;07308;Teno
+07;Maule;073;Curicó;07309;Vichuquén
+07;Maule;074;Linares;07401;Linares
+07;Maule;074;Linares;07402;Colbún
+07;Maule;074;Linares;07403;Longaví
+07;Maule;074;Linares;07404;Parral
+07;Maule;074;Linares;07405;Retiro
+07;Maule;074;Linares;07406;San Javier
+07;Maule;074;Linares;07407;Villa Alegre
+07;Maule;074;Linares;07408;Yerbas Buenas
+08;Biobío;081;Concepción;08101;Concepción
+08;Biobío;081;Concepción;08102;Coronel
+08;Biobío;081;Concepción;08103;Chiguayante
+08;Biobío;081;Concepción;08104;Florida
+08;Biobío;081;Concepción;08105;Hualqui
+08;Biobío;081;Concepción;08106;Lota
+08;Biobío;081;Concepción;08107;Penco
+08;Biobío;081;Concepción;08108;San Pedro de la Paz
+08;Biobío;081;Concepción;08109;Santa Juana
+08;Biobío;081;Concepción;08110;Talcahuano
+08;Biobío;081;Concepción;08111;Tomé
+08;Biobío;081;Concepción;08112;Hualpén
+08;Biobío;082;Arauco;08201;Lebu
+08;Biobío;082;Arauco;08202;Arauco
+08;Biobío;082;Arauco;08203;Cañete
+08;Biobío;082;Arauco;08204;Contulmo
+08;Biobío;082;Arauco;08205;Curanilahue
+08;Biobío;082;Arauco;08206;Los Alamos
+08;Biobío;082;Arauco;08207;Tirua
+08;Biobío;083;Bío-Bío;08301;Los Angeles
+08;Biobío;083;Bío-Bío;08302;Antuco
+08;Biobío;083;Bío-Bío;08303;Cabrero
+08;Biobío;083;Bío-Bío;08304;Laja
+08;Biobío;083;Bío-Bío;08305;Mulchén
+08;Biobío;083;Bío-Bío;08306;Nacimiento
+08;Biobío;083;Bío-Bío;08307;Negrete
+08;Biobío;083;Bío-Bío;08308;Quilaco
+08;Biobío;083;Bío-Bío;08309;Quilleco
+08;Biobío;083;Bío-Bío;08310;San Rosendo
+08;Biobío;083;Bío-Bío;08311;Santa Bárbara
+08;Biobío;083;Bío-Bío;08312;Tucapel
+08;Biobío;083;Bío-Bío;08313;Yumbel
+08;Biobío;083;Bío-Bío;08314;Alto Biobío
+08;Biobío;084;Ñuble;08401;Chillán
+08;Biobío;084;Ñuble;08402;Bulnes
+08;Biobío;084;Ñuble;08403;Cobquecura
+08;Biobío;084;Ñuble;08404;Coelemu
+08;Biobío;084;Ñuble;08405;Coihueco
+08;Biobío;084;Ñuble;08406;Chillán Viejo
+08;Biobío;084;Ñuble;08407;El Carmen
+08;Biobío;084;Ñuble;08408;Ninhue
+08;Biobío;084;Ñuble;08409;Ñiquén
+08;Biobío;084;Ñuble;08410;Pemuco
+08;Biobío;084;Ñuble;08411;Pinto
+08;Biobío;084;Ñuble;08412;Portezuelo
+08;Biobío;084;Ñuble;08413;Quillón
+08;Biobío;084;Ñuble;08414;Quirihue
+08;Biobío;084;Ñuble;08415;Ranquil
+08;Biobío;084;Ñuble;08416;San Carlos
+08;Biobío;084;Ñuble;08417;San Fabián
+08;Biobío;084;Ñuble;08418;San Ignacio
+08;Biobío;084;Ñuble;08419;San Nicolás
+08;Biobío;084;Ñuble;08420;Treguaco
+08;Biobío;084;Ñuble;08421;Yungay
+09;La Araucanía;091;Cautín;09101;Temuco
+09;La Araucanía;091;Cautín;09102;Carahue
+09;La Araucanía;091;Cautín;09103;Cunco
+09;La Araucanía;091;Cautín;09104;Curarrehue
+09;La Araucanía;091;Cautín;09105;Freire
+09;La Araucanía;091;Cautín;09106;Galvarino
+09;La Araucanía;091;Cautín;09107;Gorbea
+09;La Araucanía;091;Cautín;09108;Lautaro
+09;La Araucanía;091;Cautín;09109;Loncoche
+09;La Araucanía;091;Cautín;09110;Melipeuco
+09;La Araucanía;091;Cautín;09111;Nueva Imperial
+09;La Araucanía;091;Cautín;09112;Padre Las Casas
+09;La Araucanía;091;Cautín;09113;Perquenco
+09;La Araucanía;091;Cautín;09114;Pitrufquén
+09;La Araucanía;091;Cautín;09115;Pucón
+09;La Araucanía;091;Cautín;09116;Saavedra
+09;La Araucanía;091;Cautín;09117;Teodoro Schmidt
+09;La Araucanía;091;Cautín;09118;Toltén
+09;La Araucanía;091;Cautín;09119;Vilcún
+09;La Araucanía;091;Cautín;09120;Villarrica
+09;La Araucanía;091;Cautín;09121;Cholchol
+09;La Araucanía;092;Malleco;09201;Angol
+09;La Araucanía;092;Malleco;09202;Collipulli
+09;La Araucanía;092;Malleco;09203;Curacautín
+09;La Araucanía;092;Malleco;09204;Ercilla
+09;La Araucanía;092;Malleco;09205;Lonquimay
+09;La Araucanía;092;Malleco;09206;Los Sauces
+09;La Araucanía;092;Malleco;09207;Lumaco
+09;La Araucanía;092;Malleco;09208;Puren
+09;La Araucanía;092;Malleco;09209;Renaico
+09;La Araucanía;092;Malleco;09210;Traiguén
+09;La Araucanía;092;Malleco;09211;Victoria
+10;Los Lagos;101;Llanquihue;10101;Puerto Montt
+10;Los Lagos;101;Llanquihue;10102;Calbuco
+10;Los Lagos;101;Llanquihue;10103;Cochamó
+10;Los Lagos;101;Llanquihue;10104;Fresia
+10;Los Lagos;101;Llanquihue;10105;Frutillar
+10;Los Lagos;101;Llanquihue;10106;Los Muermos
+10;Los Lagos;101;Llanquihue;10107;Llanquihue
+10;Los Lagos;101;Llanquihue;10108;Maullín
+10;Los Lagos;101;Llanquihue;10109;Puerto Varas
+10;Los Lagos;102;Chiloé;10201;Castro
+10;Los Lagos;102;Chiloé;10202;Ancud
+10;Los Lagos;102;Chiloé;10203;Chonchi
+10;Los Lagos;102;Chiloé;10204;Curaco de Velez
+10;Los Lagos;102;Chiloé;10205;Dalcahue
+10;Los Lagos;102;Chiloé;10206;Puqueldón
+10;Los Lagos;102;Chiloé;10207;Queilén
+10;Los Lagos;102;Chiloé;10208;Quellón
+10;Los Lagos;102;Chiloé;10209;Quemchi
+10;Los Lagos;102;Chiloé;10210;Quinchao
+10;Los Lagos;103;Osorno;10301;Osorno
+10;Los Lagos;103;Osorno;10302;Puerto Octay
+10;Los Lagos;103;Osorno;10303;Purranque
+10;Los Lagos;103;Osorno;10304;Puyehue
+10;Los Lagos;103;Osorno;10305;Río Negro
+10;Los Lagos;103;Osorno;10306;San Juan de la Costa
+10;Los Lagos;103;Osorno;10307;San Pablo
+10;Los Lagos;104;Palena;10401;Chaitén
+10;Los Lagos;104;Palena;10402;Futaleufú
+10;Los Lagos;104;Palena;10403;Hualaihue
+10;Los Lagos;104;Palena;10404;Palena
+11;Aysén del General Carlos Ibáñez del Campo;111;Coihayque;11101;Coihayque
+11;Aysén del General Carlos Ibáñez del Campo;111;Coihayque;11102;Lago Verde
+11;Aysén del General Carlos Ibáñez del Campo;112;Aisén;11201;Aisén
+11;Aysén del General Carlos Ibáñez del Campo;112;Aisén;11202;Cisnes
+11;Aysén del General Carlos Ibáñez del Campo;112;Aisén;11203;Guaitecas
+11;Aysén del General Carlos Ibáñez del Campo;113;Capitán Prat;11301;Cochrane
+11;Aysén del General Carlos Ibáñez del Campo;113;Capitán Prat;11302;O'Higgins
+11;Aysén del General Carlos Ibáñez del Campo;113;Capitán Prat;11303;Tortel
+11;Aysén del General Carlos Ibáñez del Campo;114;General Carrera;11401;Chile Chico
+11;Aysén del General Carlos Ibáñez del Campo;114;General Carrera;11402;Río Ibáñez
+12;Magallanes y de la Antártica Chilena;121;Magallanes;12101;Punta Arenas
+12;Magallanes y de la Antártica Chilena;121;Magallanes;12102;Laguna Blanca
+12;Magallanes y de la Antártica Chilena;121;Magallanes;12103;Río Verde
+12;Magallanes y de la Antártica Chilena;121;Magallanes;12104;San Gregorio
+12;Magallanes y de la Antártica Chilena;122;Antártica Chilena;12201;Cabo de Hornos
+12;Magallanes y de la Antártica Chilena;122;Antártica Chilena;12202;Antártica
+12;Magallanes y de la Antártica Chilena;123;Tierra del Fuego;12301;Porvenir
+12;Magallanes y de la Antártica Chilena;123;Tierra del Fuego;12302;Primavera
+12;Magallanes y de la Antártica Chilena;123;Tierra del Fuego;12303;Timaukel
+12;Magallanes y de la Antártica Chilena;124;Última Esperanza;12401;Natales
+12;Magallanes y de la Antártica Chilena;124;Última Esperanza;12402;Torres del Paine
+13;Metropolitana de Santiago;131;Santiago;13101;Santiago
+13;Metropolitana de Santiago;131;Santiago;13102;Cerrillos
+13;Metropolitana de Santiago;131;Santiago;13103;Cerro Navia
+13;Metropolitana de Santiago;131;Santiago;13104;Conchalí
+13;Metropolitana de Santiago;131;Santiago;13105;El Bosque
+13;Metropolitana de Santiago;131;Santiago;13106;Estación Central
+13;Metropolitana de Santiago;131;Santiago;13107;Huechuraba
+13;Metropolitana de Santiago;131;Santiago;13108;Independencia
+13;Metropolitana de Santiago;131;Santiago;13109;La Cisterna
+13;Metropolitana de Santiago;131;Santiago;13110;La Florida
+13;Metropolitana de Santiago;131;Santiago;13111;La Granja
+13;Metropolitana de Santiago;131;Santiago;13112;La Pintana
+13;Metropolitana de Santiago;131;Santiago;13113;La Reina
+13;Metropolitana de Santiago;131;Santiago;13114;Las Condes
+13;Metropolitana de Santiago;131;Santiago;13115;Lo Barnechea
+13;Metropolitana de Santiago;131;Santiago;13116;Lo Espejo
+13;Metropolitana de Santiago;131;Santiago;13117;Lo Prado
+13;Metropolitana de Santiago;131;Santiago;13118;Macul
+13;Metropolitana de Santiago;131;Santiago;13119;Maipú
+13;Metropolitana de Santiago;131;Santiago;13120;Ñuñoa
+13;Metropolitana de Santiago;131;Santiago;13121;Pedro Aguirre Cerda
+13;Metropolitana de Santiago;131;Santiago;13122;Peñalolén
+13;Metropolitana de Santiago;131;Santiago;13123;Providencia
+13;Metropolitana de Santiago;131;Santiago;13124;Pudahuel
+13;Metropolitana de Santiago;131;Santiago;13125;Quilicura
+13;Metropolitana de Santiago;131;Santiago;13126;Quinta Normal
+13;Metropolitana de Santiago;131;Santiago;13127;Recoleta
+13;Metropolitana de Santiago;131;Santiago;13128;Renca
+13;Metropolitana de Santiago;131;Santiago;13129;San Joaquín
+13;Metropolitana de Santiago;131;Santiago;13130;San Miguel
+13;Metropolitana de Santiago;131;Santiago;13131;San Ramón
+13;Metropolitana de Santiago;131;Santiago;13132;Vitacura
+13;Metropolitana de Santiago;132;Cordillera;13201;Puente Alto
+13;Metropolitana de Santiago;132;Cordillera;13202;Pirque
+13;Metropolitana de Santiago;132;Cordillera;13203;San José De Maipo
+13;Metropolitana de Santiago;133;Chacabuco;13301;Colina
+13;Metropolitana de Santiago;133;Chacabuco;13302;Lampa
+13;Metropolitana de Santiago;133;Chacabuco;13303;Tiltil
+13;Metropolitana de Santiago;134;Maipo;13401;San Bernardo
+13;Metropolitana de Santiago;134;Maipo;13402;Buin
+13;Metropolitana de Santiago;134;Maipo;13403;Calera De Tango
+13;Metropolitana de Santiago;134;Maipo;13404;Paine
+13;Metropolitana de Santiago;135;Melipilla;13501;Melipilla
+13;Metropolitana de Santiago;135;Melipilla;13502;Alhué
+13;Metropolitana de Santiago;135;Melipilla;13503;Curacaví
+13;Metropolitana de Santiago;135;Melipilla;13504;María Pinto
+13;Metropolitana de Santiago;135;Melipilla;13505;San Pedro
+13;Metropolitana de Santiago;136;Talagante;13601;Talagante
+13;Metropolitana de Santiago;136;Talagante;13602;El Monte
+13;Metropolitana de Santiago;136;Talagante;13603;Isla De Maipo
+13;Metropolitana de Santiago;136;Talagante;13604;Padre Hurtado
+13;Metropolitana de Santiago;136;Talagante;13605;Peñaflor
+14;Los Ríos;141;Valdivia;14101;Valdivia
+14;Los Ríos;141;Valdivia;14102;Corral
+14;Los Ríos;141;Valdivia;14103;Lanco
+14;Los Ríos;141;Valdivia;14104;Los Lagos
+14;Los Ríos;141;Valdivia;14105;Máfil
+14;Los Ríos;141;Valdivia;14106;Mariquina
+14;Los Ríos;141;Valdivia;14107;Paillaco
+14;Los Ríos;141;Valdivia;14108;Panguipulli
+14;Los Ríos;142;Ranco;14201;La Unión
+14;Los Ríos;142;Ranco;14202;Futrono
+14;Los Ríos;142;Ranco;14203;Lago Ranco
+14;Los Ríos;142;Ranco;14204;Río Bueno
+15;Arica y Parinacota;151;Arica;15101;Arica
+15;Arica y Parinacota;151;Arica;15102;Camarones
+15;Arica y Parinacota;152;Parinacota;15201;Putre
+15;Arica y Parinacota;152;Parinacota;15202;General Lagos
